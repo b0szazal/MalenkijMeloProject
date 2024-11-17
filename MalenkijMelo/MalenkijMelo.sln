@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalenkijMelo.Share", "Malen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalenkijMelo.ViewModels", "MalenkijMelo.ViewModels\MalenkijMelo.ViewModels.csproj", "{5B5E71FC-3C65-4158-9BF8-5D10FEEC1271}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalenkijMelo.Desktop", "MalenkijMelo.Desktop\MalenkijMelo.Desktop.csproj", "{5D3D6AF8-E091-464C-BCD0-BED8CCA57F21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5B5E71FC-3C65-4158-9BF8-5D10FEEC1271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B5E71FC-3C65-4158-9BF8-5D10FEEC1271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B5E71FC-3C65-4158-9BF8-5D10FEEC1271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3D6AF8-E091-464C-BCD0-BED8CCA57F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3D6AF8-E091-464C-BCD0-BED8CCA57F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3D6AF8-E091-464C-BCD0-BED8CCA57F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3D6AF8-E091-464C-BCD0-BED8CCA57F21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
