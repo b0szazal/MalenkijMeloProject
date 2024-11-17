@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MalenkijMelo.Share\MalenkijMelo.Share.csproj" />
+  </ItemGroup>
+
 </Project>
