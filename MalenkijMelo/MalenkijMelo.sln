@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalenkijMelo.Share", "MalenkijMelo.Share\MalenkijMelo.Share.csproj", "{FB6BF636-7092-4374-882D-A05B0F0C4F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalenkijMelo.ViewModels", "MalenkijMelo.ViewModels\MalenkijMelo.ViewModels.csproj", "{5B5E71FC-3C65-4158-9BF8-5D10FEEC1271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6BF636-7092-4374-882D-A05B0F0C4F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6BF636-7092-4374-882D-A05B0F0C4F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6BF636-7092-4374-882D-A05B0F0C4F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6BF636-7092-4374-882D-A05B0F0C4F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5E71FC-3C65-4158-9BF8-5D10FEEC1271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5E71FC-3C65-4158-9BF8-5D10FEEC1271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5E71FC-3C65-4158-9BF8-5D10FEEC1271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5E71FC-3C65-4158-9BF8-5D10FEEC1271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3927AB1A-934D-41D3-BBDD-A7169BCE411D}
+	EndGlobalSection
+EndGlobal
